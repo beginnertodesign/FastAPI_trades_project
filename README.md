@@ -1,0 +1,1 @@
+# FastAPI_trades_project
